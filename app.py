@@ -201,7 +201,7 @@ with gr.Blocks(css=css) as demo:
               <p>
                Demo for Anything V3 + in colab notebook you can load any other Diffusers 🧨 SD model hosted on HuggingFace 🤗.
               </p>
-              <p>You can skip the queue and load custom models in the colab: <a href="https://colab.research.google.com/drive/109CvcHvmfTv3hlS8DSetiky9kH1WVKFf"><img data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" src="https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667"></a></p>
+              <p>You can skip the queue and load custom models in the colab: <a href="https://colab.research.google.com/drive/1AC4c4e0fJDFjgTqY_M-F4tUe3kVUDeuk"><img data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" src="https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667"></a></p>
                Running on <b>{device}</b>{(" in a <b>Google Colab</b>." if is_colab else "")}
               </p>
             </div>
