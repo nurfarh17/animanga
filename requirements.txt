@@ -1,6 +1,6 @@
 --extra-index-url https://download.pytorch.org/whl/cu113
 torch
-diffusers
+diffusers==0.8.0
 transformers
 scipy
 ftfy
