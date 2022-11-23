@@ -1,6 +1,6 @@
 --extra-index-url https://download.pytorch.org/whl/cu113
 torch
-git+https://github.com/huggingface/diffusers.git
+diffusers
 transformers
 scipy
 ftfy
